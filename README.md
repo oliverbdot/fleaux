@@ -3,7 +3,8 @@
 
 ## Installation
 ```bash
-python -m pip install fleaux
+python3 -m pip install fleaux
+python3 -m pip install --upgrade libog
 ```
 ## Usage
 ```bash
